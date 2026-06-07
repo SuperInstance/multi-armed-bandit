@@ -1,0 +1,11 @@
+[package]
+name = "multi-armed-bandit"
+version = "0.1.0"
+edition = "2021"
+description = "Multi-armed bandit algorithms including epsilon-greedy, UCB1, and Thompson sampling"
+license = "MIT"
+repository = "https://github.com/SuperInstance/multi-armed-bandit"
+keywords = ["bandit", "reinforcement-learning", "ucb", "thompson-sampling", "optimization"]
+categories = ["mathematics", "algorithms", "science"]
+
+[dependencies]
